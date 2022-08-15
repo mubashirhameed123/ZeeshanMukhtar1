@@ -1,6 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://ZeeshanMukhtar1.io)
-<h1 align="center">Hey   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Zeeshan Mukhtar</h1>
-<h3 align="center"> A boy trying to figure-Out Stuff 👨‍🎓 !</h3>
+[![Typing Zeeshan](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+!;Myself+Zeeshan+Mukhtar+%F0%9F%99%82;+A+boy+trying+to+figure-Out+Stuff+%F0%9F%92%BB;Welcome+to+my+Github+Profile+%E2%9C%A8)](https://git.io/typing-svg)
 <h6 align="center">  Future Web Programmer Inshallah ✨ </h6>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" >
 
