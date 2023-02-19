@@ -1,49 +1,30 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://ZeeshanMukhtar1.io)
-[![Typing Zeeshan](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+!;Myself+Zeeshan+Mukhtar+%F0%9F%99%82;+A+boy+trying+to+figure-Out+Stuff+%F0%9F%92%BB;Welcome+to+my+Github+Profile+%E2%9C%A8)](https://git.io/typing-svg)
-<h6 align="center">  Future Web Programmer Inshallah ✨ </h6>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanmukhtar1&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanmukhtar1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/zee_shaan1" target="blank"><img src="https://img.shields.io/twitter/follow/zee_shaan1?logo=twitter&style=for-the-badge" alt="zee_shaan1" /></a> </p>
-
-- ⚡ Fun fact **Dimple Boy**
-
-<h3 align="left">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😉 </h3>  
-
-<p align="left">
-
-<a href="https://twitter.com/zee_shaan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zee_shaan1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ZeeshanMukhtar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zee_shaan1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zeeshan-mukhtar-b0a12a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanmukhtar1" height="30" width="40" /></a>
-<a href="https://fb.com/zeshanmukhtar.thaheem.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeshanmukhtar.thaheem.98" height="30" width="40" /></a>
-<a href="https://instagram.com/ze_shaan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ze_shaan1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Skills :</h3>
-<p align="left">
+# 💫 About Me:
+Hello and welcome to my GitHub profile! My name is Zeeshan Mukhtar, and I possess a diverse skill set in web development, specifically in HTML, CSS, JavaScript, React.js, and Bootstrap. With a passion for creating exceptional user experiences and an eagerness to learn, I am committed to delivering high-quality work that meets the needs of both clients and end users. Thank you for taking the time to visit my profile, and please feel free to explore my repositories.<br>Thank you for taking the time to visit my profile! Please feel free to explore my repositories, and if you have any questions or would like to discuss potential projects or collaborations, don't hesitate to reach out to me. I am always open to new opportunities and am committed to providing exceptional web development services that meet the unique needs of each client. Thank you again for your interest, and I look forward to connecting with you soon.
 
 
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![HTML5](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
- ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
- </p> 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100070572332885) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeshanmukhtar01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanmukhtar1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ZeshanMukhtar01) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&theme=vision-friendly-dark)](https://github.com/ZeeshanMukhtar1/github-readme-stats)
+# 💻 Tech Stack:
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZeeshanMukhtar1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanMukhtar1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanMukhtar1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanmukhtar1&theme=neon-dark&date_format=j%20M%5B%20Y%5D" alt="zeeshanmukhtar1" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZeeshanMukhtar1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ZeshanMukhtar01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ZeeshanMukhtar1&theme=radical&date_format=j%20M%5B%20Y%5D" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
- ![Snake Game](https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/blob/output/github-contribution-grid-snake.gif)
+---
+[![](https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&icon=2&color=6)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
